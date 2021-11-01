@@ -9,9 +9,9 @@ You need some python library:
 
 There's 3 different camera in the database. 
 
-![alt text](https://github.com/adle15/micro-expression-analysis/blob/master/reg_06387.bmp)
-![alt text](https://github.com/adle15/micro-expression-analysis/blob/master/reg_06524.bmp)
-![alt text](https://github.com/adle15/micro-expression-analysis/blob/master/reg_image036237.bmp).
+![alt text](https://github.com/adle15/micro-expression-analysis/blob/master/sample%20dataset/nir-sample.bmp)
+![alt text](https://github.com/adle15/micro-expression-analysis/blob/master/sample%20dataset/vis-sample.bmp)
+![alt text](https://github.com/adle15/micro-expression-analysis/blob/master/sample%20dataset/hs-sample.bmp)
 
 First one is NIR camera, second one is VIS camera, and the last one is HS camera.
 
