@@ -2,6 +2,7 @@
 ##This repo contains my final project to obtain Bachelor Degree
 
 I was using SMIC-Cropped dataset (can requested [here](https://www.oulu.fi/cmvs/node/41319) for research purpose only) .
+
 CNN VGG19 (feature extractor) and Random Forest (classifier) is used for this project.
 
 You need some python library:
